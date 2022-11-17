@@ -8,7 +8,7 @@ Console.WriteLine();
 
 Console.WriteLine("Rules: ");
 Console.WriteLine("       1. Grid points cannot be repeated, they can only be used once, at most.");
-Console.WriteLine("       2. Cannot pass through a point unless it has already be used. ");
+Console.WriteLine("       2. Cannot pass through a point unless it has already been used. ");
 Console.WriteLine("          Example: Cannot go from A -> G unless D has already been used.");
 
 while (cont == "yes")

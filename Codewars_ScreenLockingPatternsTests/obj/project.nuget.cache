@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xz0AATvbVyny+ARi3XYr61WPWXHF1neS/s+PDQZRgcJciHDo4HQ3sF5LCBMO6bUS2ohzzGNUeJC77RzADvixkw==",
+  "dgSpecHash": "67LeGt0yMvAQN0hLljDtB1VL+pFrLyvL95K8tiQ1LSY8BfLIaSz5pJyDBaAhqPZLJxhq9/Tqx9CtONk2kn2v0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jake\\Desktop\\Repos\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatternsTests\\Codewars_ScreenLockingPatternsTests.csproj",
+  "projectFilePath": "C:\\Users\\Jake\\Desktop\\Repos\\010. PossiblePatternsCalculator\\Codewars_ScreenLockingPatternsTests\\Codewars_ScreenLockingPatternsTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jake\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Jake\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

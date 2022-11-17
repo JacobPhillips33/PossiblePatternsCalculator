@@ -6130,11 +6130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Repos\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatternsTests\\Codewars_ScreenLockingPatternsTests.csproj",
+      "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Repos\\010. PossiblePatternsCalculator\\Codewars_ScreenLockingPatternsTests\\Codewars_ScreenLockingPatternsTests.csproj",
       "projectName": "Codewars_ScreenLockingPatternsTests",
-      "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatternsTests\\Codewars_ScreenLockingPatternsTests.csproj",
+      "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\010. PossiblePatternsCalculator\\Codewars_ScreenLockingPatternsTests\\Codewars_ScreenLockingPatternsTests.csproj",
       "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake\\Desktop\\Repos\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatternsTests\\obj\\",
+      "outputPath": "C:\\Users\\Jake\\Desktop\\Repos\\010. PossiblePatternsCalculator\\Codewars_ScreenLockingPatternsTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6151,8 +6151,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Jake\\Desktop\\Repos\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatterns.csproj": {
-              "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatterns.csproj"
+            "C:\\Users\\Jake\\Desktop\\Repos\\010. PossiblePatternsCalculator\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatterns.csproj": {
+              "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\010. PossiblePatternsCalculator\\Codewars_ScreenLockingPatterns\\Codewars_ScreenLockingPatterns.csproj"
             }
           }
         }
