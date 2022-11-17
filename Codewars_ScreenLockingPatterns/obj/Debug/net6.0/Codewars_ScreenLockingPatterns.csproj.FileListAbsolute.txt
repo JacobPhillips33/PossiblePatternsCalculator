@@ -1,0 +1,15 @@
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\bin\Debug\net6.0\Codewars_ScreenLockingPatterns.exe
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\bin\Debug\net6.0\Codewars_ScreenLockingPatterns.deps.json
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\bin\Debug\net6.0\Codewars_ScreenLockingPatterns.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\bin\Debug\net6.0\Codewars_ScreenLockingPatterns.dll
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\bin\Debug\net6.0\Codewars_ScreenLockingPatterns.pdb
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.dll
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\refint\Codewars_ScreenLockingPatterns.dll
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.pdb
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\Codewars_ScreenLockingPatterns.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\Codewars_ScreenLockingPatterns\Codewars_ScreenLockingPatterns\obj\Debug\net6.0\ref\Codewars_ScreenLockingPatterns.dll
