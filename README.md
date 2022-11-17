@@ -11,8 +11,8 @@ Solution example: Making 3 moves beginning with grid point A has 31 possible pat
 
 Grid:
 
-A   B   C
+A      B      C
 
-D   E   F
+D      E      F
 
-G   H   I
+G      H      I
