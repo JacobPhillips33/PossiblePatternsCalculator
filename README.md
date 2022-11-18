@@ -2,7 +2,7 @@
 
 C# Console Application
 
-This application will calculate the number of patterns possible on a 3x3 grid given a user specified starting point and a user designated number of movements for the pattern.
+This application delves into subjects such as graph-theory and combinatorics to calculate the number of patterns possible on a 3x3 grid given a user specified starting point and a user designated number of movements for the pattern.
 
 Rules:
 1.	Grid points will not be repeated; they can only be used once, at most.
